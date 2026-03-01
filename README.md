@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0067-add-binary) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## String
 |  |
 | ------- |
@@ -15,10 +16,12 @@
 | [0067-add-binary](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0067-add-binary) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Array
 |  |
 | ------- |
