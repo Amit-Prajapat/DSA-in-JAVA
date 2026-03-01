@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0067-add-binary) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
