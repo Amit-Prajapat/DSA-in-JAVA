@@ -28,6 +28,7 @@
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -57,4 +58,5 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
