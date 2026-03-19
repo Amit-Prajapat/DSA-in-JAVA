@@ -44,10 +44,12 @@
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
 ## Greedy
 |  |
@@ -59,4 +61,8 @@
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
