@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0072-edit-distance) |
 | [0647-palindromic-substrings](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0647-palindromic-substrings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
@@ -73,5 +74,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0072-edit-distance) |
 | [0647-palindromic-substrings](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
