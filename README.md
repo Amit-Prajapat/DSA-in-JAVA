@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0067-add-binary) |
+| [0647-palindromic-substrings](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0647-palindromic-substrings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
 |  |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0647-palindromic-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
