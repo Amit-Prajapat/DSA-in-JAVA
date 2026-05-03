@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -61,6 +62,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Breadth-First Search
@@ -76,4 +78,12 @@
 | ------- |
 | [0072-edit-distance](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0072-edit-distance) |
 | [0647-palindromic-substrings](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0647-palindromic-substrings) |
+## Hash Table
+|  |
+| ------- |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+## Prefix Sum
+|  |
+| ------- |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 <!---LeetCode Topics End-->
