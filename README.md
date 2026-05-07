@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0072-edit-distance) |
 | [0647-palindromic-substrings](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0647-palindromic-substrings) |
