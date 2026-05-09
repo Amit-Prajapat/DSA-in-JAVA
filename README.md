@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
