@@ -87,9 +87,22 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0146-lru-cache) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
