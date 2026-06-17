@@ -79,6 +79,7 @@
 | [0088-merge-sorted-array](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0647-palindromic-substrings) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0146-lru-cache) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0146-lru-cache) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
