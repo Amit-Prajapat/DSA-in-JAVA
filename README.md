@@ -35,6 +35,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | ------- |
 | [0072-edit-distance](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0072-edit-distance) |
 | [0647-palindromic-substrings](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0647-palindromic-substrings) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Hash Table
 |  |
 | ------- |
