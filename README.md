@@ -31,6 +31,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [1004-max-consecutive-ones-iii](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
+| [1004-max-consecutive-ones-iii](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Linked List
 |  |
@@ -113,4 +116,8 @@
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Amit-Prajapat/DSA-in-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
